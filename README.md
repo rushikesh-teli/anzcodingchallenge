@@ -1,5 +1,17 @@
 # anzcodingchallenge
-
+ANZ Wholesale Engineering Sample Project – Backend Development
+The sample application being requested by the candidate to build the backend service
+needed to support a web application to that allows a user to view transactions on any of the
+accounts they hold.
+Required functionality:
+- View account list
+- View account transactions
+Technology Guidelines:
+UI
+Not applicable and outside of the scope of this project.
+Backend Server
+Utilise standard java and spring boot and other spring projects as a base. Add any other
+framework as necessary.
 # Prerequisites to run application
 - Java 8
 - Maven
