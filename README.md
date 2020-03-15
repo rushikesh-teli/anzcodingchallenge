@@ -11,14 +11,14 @@ Steps to run
 1. Import this maven project in eclipse and run main class AccountApplication.java
 This will bring up apring boot application and hapy flow can be tested by hitting following URLs
 
-User Accounts - with Data
-http://localhost:8080/anz/user/1/accounts
+User Accounts - with Data  
+http://localhost:8080/anz/user/1/accounts  
 http://localhost:8080/anz/user/2/accounts
 
-User Accounts - No Data
+User Accounts - No Data  
 http://localhost:8080/anz/user/3/accounts
 
-User Accounts - Exception
+User Accounts - Exception  
 http://localhost:8080/anz/user/4/accounts
 
 Account Transactions - with Data  
