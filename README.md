@@ -26,4 +26,4 @@ http://localhost:8080/anz/account/8000/transactions
 # Frameworks Used
 - Spring
 - Hibernate
-- 
+- Jackson Databind
